@@ -2,7 +2,7 @@
 
 My name is Vinicius Barbosa and i'm a Brazilian 🇧🇷 software developer and a Computer Science student at UFPB. I'm passionate about learning and experimenting with new technologies and love to build applications with JavaScript or TypeScript.
 
-I love to work with React and Node, I also have some experience with GraphQL, Postgres, Vue.js. Currently working as a Fullstack developer intern at [@Cotabox](https://github.com/Cotabox) building exciting solutions wiht GraphQL, MongoDB and Vue.js.
+I love to work with React and Node, I also have some experience with GraphQL, Postgres, Vue.js. Currently working as a Junior Software Developer at [@Cotabox](https://github.com/Cotabox) building exciting solutions wiht GraphQL, MongoDB and Vue.js.
 
 [![bmviniciuss1 GitHub stats](https://github-readme-stats.vercel.app/api?username=bmviniciuss&count_private=true&show_icons=true&hide=contribs)](https://github.com/bmviniciuss)
 
