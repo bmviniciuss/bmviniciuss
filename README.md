@@ -2,7 +2,7 @@
 
 My name is Vinicius Barbosa and i'm a Brazilian 🇧🇷 software developer and a Computer Science student at UFPB. I'm passionate about learning and experimenting with new technologies and love to build applications with JavaScript or TypeScript.
 
-I love to work with Node, I also have some experience with GraphQL, Postgres, React and Vue.js. Currently working as a Software Engineer at Dock(https://dock.tech/).
+I love to work with Node, I also have some experience with GraphQL, Postgres, React and Vue.js. Currently working as a Software Engineer at [Dock](https://dock.tech/).
 
 [![bmviniciuss1 GitHub stats](https://github-readme-stats.vercel.app/api?username=bmviniciuss&count_private=true&show_icons=true&hide=contribs)](https://github.com/bmviniciuss)
 
