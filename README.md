@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Vinicius Barbosa and i'm a Brazilian 🇧🇷 software engineer with a UFPB Computer Science bachelor's degree. I'm passionate about learning and experimenting with new technologies and love to build applications with Golang. Currently working as a Software Engineer II at [Dock](https://dock.tech/).
+My name is Vinicius Barbosa and i'm a Brazilian 🇧🇷 software engineer with a UFPB Computer Science bachelor's degree. I'm passionate about learning and experimenting with new technologies and love to build applications with Golang. Currently working as a Software Engineer II at Avenue
 
 [![bmviniciuss1 GitHub stats](https://github-readme-stats.vercel.app/api?username=bmviniciuss&count_private=true&show_icons=true&hide=contribs)](https://github.com/bmviniciuss)
 
